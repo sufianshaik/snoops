@@ -1,0 +1,298 @@
+{
+  "productsList": [
+    {
+      "id": "1",
+      "productImageName1": "Snopes Logo T-Shirt (Color)",
+      "price": "25.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-products-logo-outlined-shirt-BC-2_540x.jpg?v=1555009969"
+    },
+    {
+      "id": "2",
+      "productImageName1": "Only You! T-Shirt ",
+      "price": "28.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-only-you-army-bc_540x.jpeg?v=1555695087"
+    },
+    {
+      "id": "3",
+      "productImageName1": "#DidYouSnopesThat T-Shirt",
+      "price": "21.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopesthat-bc_540x.jpg?v=1554859152"
+    },
+    {
+      "id": "4",
+      "productImageName1": "#facts T-Shirts",
+      "price": "26.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/facts-tee-bella-canvas_540x.jpg?v=1555695323"
+    },
+    {
+      "id": "5",
+      "productImageName1": "Facts on Facts T-Shirts",
+      "price": "12.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-shirt-facts-on-facts-BC-3_540x.jpg?v=1555040814"
+    },
+    {
+      "id": "6",
+      "productImageName1": "Snopes Icon T-shirt",
+      "price": "15.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-product-shirt-brand-work-black-BC-2_540x.jpg?v=1554923068"
+    },
+    {
+      "id": "7",
+      "productImageName1": "Check Your Sources T-Shirt",
+      "price": "19.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-shirt-check-your-sources-BC-5_360x.jpg?v=1555635204"
+    },
+    {
+      "id": "8",
+      "productImageName1": "Future Fact Checker Onesie",
+      "price": "20.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-future-fact-checker-onesie-mockup-yellow_360x.jpg?v=1607104571"
+    },
+    {
+      "id": "9",
+      "productImageName1": "Snopes Tote",
+      "price": "31.00",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/large-eco-tote-black-5fcf6b91df0bb_360x.jpg?v=1607429012"
+    }
+  ],
+  "tshirts1List": [
+    {
+      "id": "1",
+      "price": "15.00",
+      "productImageName1": "Only You! T-Shirt",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-only-you-army-bc_540x.jpeg?v=1555695087"
+    },
+    {
+      "id": "2",
+      "price": "20.00",
+      "productImageName1": "Snopes Logo T-Shirt(Color)",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-products-logo-outlined-shirt-BC-2_540x.jpg?v=1555009969"
+    },
+    {
+      "id": "3",
+      "price": "25.00",
+      "productImageName1": "Check Your Sources T-shirts",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-shirt-check-your-sources-BC-5_540x.jpg?v=1555635204"
+    },
+    {
+      "id": "4",
+      "price": "30.00",
+      "productImageName1": "#facts T-shirts",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/facts-tee-bella-canvas_540x.jpg?v=1555695323"
+    },
+    {
+      "id": "5",
+      "price": "21.00",
+      "productImageName1": "Snopes Icon T-shirt",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-product-shirt-brand-work-black-BC-2_540x.jpg?v=1554923068"
+    },
+    {
+      "id": "6",
+      "price": "31.00",
+      "productImageName1": "Facts on Facts T-Shirt",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/snopes-shirt-facts-on-facts-BC-3_360x.jpg?v=1555040814"
+    },
+    {
+      "id": "7",
+      "price": "41.00",
+      "productImageName1": "It's Facts T-Shirts(Women's Fit)",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/womens-relaxed-t-shirt-black-front-6024468509410_360x.jpg?v=1612990088"
+    },
+    {
+      "id": "8",
+      "price": "68.00",
+      "productImageName1": "It's Facts T-Shirts",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-t-shirt-black-front-602445d690613_360x.jpg?v=1612989918"
+    },
+    {
+      "id": "9",
+      "price": "9.00",
+      "productImageName1": "Hate Mail for Good Shirt",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-t-shirt-white-6000adcc4c4ad_360x.jpg?v=1610657232"
+    }
+  ],
+  "tshirts2List": [
+    {
+      "id": "1",
+      "price": "17.00",
+      "productImageName1": "Dino Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c8317303129_540x.jpg?v=1623732604"
+    },
+    {
+      "id": "2",
+      "price": "20.00",
+      "productImageName1": "I Heart Facts T-Shirts",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-t-shirt-black-front-6024444dddb1a_540x.jpg?v=1612989523"
+    },
+    {
+      "id": "3",
+      "price": "25.00",
+      "productImageName1": "Waves Short-Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-t-shirt-navy-front-60c83f5ae8cab_540x.jpg?v=1623736158"
+    },
+    {
+      "id": "4",
+      "price": "25.00",
+      "productImageName1": "Birdie Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c83127e71c2_540x.jpg?v=1623732532"
+    },
+    {
+      "id": "5",
+      "price": "27.00",
+      "productImageName1": "Kitty Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c831a395496_540x.jpg?v=1623732651"
+    },
+    {
+      "id": "6",
+      "price": "29.00",
+      "productImageName1": "Birdie Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82fb721838_360x.jpg?v=1623732156"
+    },
+    {
+      "id": "7",
+      "price": "11.00",
+      "productImageName1": "I Heart Facts T-shirt (Women's Fit)",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/womens-relaxed-t-shirt-black-front-6024465498c5c_360x.jpg?v=1612990040"
+    },
+    {
+      "id": "8",
+      "price": "10.00",
+      "productImageName1": "Hot Facts Summer Relaxed",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/womens-relaxed-t-shirt-white-front-60d64c6a0091e_360x.jpg?v=1624657004"
+    },
+    {
+      "id": "9",
+      "price": "28.00",
+      "productImageName1": "Hot Facts Summer Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-t-shirt-white-front-60d64d92ed8b1_360x.jpg?v=1624657400"
+    }
+  ],
+  "tshirts3List": [
+    {
+      "id": "1",
+      "price": "40.00",
+      "productImageName1": "Kitty Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82f197a5f1_540x.jpg?v=1623731998"
+    },
+    {
+      "id": "2",
+      "price": "34.00",
+      "productImageName1": "Dino Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82f876321b_540x.jpg?v=1623732112"
+    },
+    {
+      "id": "3",
+      "price": "25.00",
+      "productImageName1": "Birdie Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/baby-premium-tee-black-front-60c82ce807e8c_540x.jpg?v=1623731437"
+    },
+    {
+      "id": "4",
+      "price": "90.00",
+      "productImageName1": "Alien Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82eb787848_540x.jpg?v=1623731902"
+    },
+    {
+      "id": "5",
+      "price": "32.00",
+      "productImageName1": "Kitty Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/baby-premium-tee-black-front-60c82dafdaec7_540x.jpg?v=1623731636"
+    },
+    {
+      "id": "6",
+      "price": "25.00",
+      "productImageName1": "Dino Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/baby-premium-tee-heather-columbia-blue-front-60c82c3fc641b_540x.jpg?v=1623731268"
+    },
+    {
+      "id": "7",
+      "price": "21.00",
+      "productImageName1": "Alien Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/baby-premium-tee-black-front-60c82e4daacf0_540x.jpg?v=1623731793"
+    },
+    {
+      "id": "8",
+      "price": "22.00",
+      "productImageName1": "Alien Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c8325707567_540x.jpg?v=1623732831"
+    }
+  ],
+  "toddlers": [
+    {
+      "id": "1",
+      "price": "19.00",
+      "productImageName1": "Birdie Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82fb721838_540x.jpg?v=1623732156"
+    },
+    {
+      "id": "2",
+      "price": "18.00",
+      "productImageName1": "Kitty Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82f197a5f1_540x.jpg?v=1623731998"
+    },
+    {
+      "id": "3",
+      "price": "20.00",
+      "productImageName1": "Dino Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82f876321b_540x.jpg?v=1623732112"
+    },
+    {
+      "id": "4",
+      "price": "28.00",
+      "productImageName1": "Alien Short SLeeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/toddler-premium-tee-black-front-60c82eb787848_540x.jpg?v=1623731902"
+    }
+  ],
+  "youth": [
+    {
+      "id": "1",
+      "price": "22.00",
+      "productImageName1": "Dino Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c8317303129_540x.jpg?v=1623732604"
+    },
+    {
+      "id": "2",
+      "price": "24.00",
+      "productImageName1": "Birdie Short Sleeve Tee ",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c83127e71c2_540x.jpg?v=1623732532"
+    },
+    {
+      "id": "3",
+      "price": "27.00",
+      "productImageName1": "Kitty Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c831a395496_540x.jpg?v=1623732651"
+    },
+    {
+      "id": "4",
+      "price": "31.00",
+      "productImageName1": "Alien Short Sleeve Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/youth-premium-tee-white-front-60c8325707567_540x.jpg?v=1623732831"
+    }
+  ],
+  "hotsummer": [
+    {
+      "id": "1",
+      "price": "10.00",
+      "productImageName1": "Hot Facts Summer Tee",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-t-shirt-white-front-60d64d92ed8b1_360x.jpg?v=1624657400"
+    },
+    {
+      "id": "2",
+      "price": "15.00",
+      "productImageName1": "Hot Facts Summer Relaxed ",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/womens-relaxed-t-shirt-white-front-60d64c6a0091e_360x.jpg?v=1624657004"
+    },
+    {
+      "id": "3",
+      "price": "25.00",
+      "productImageName1": "Hot Facts Summer Muscle",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-muscle-shirt-white-front-60d64cde9cc28_360x.jpg?v=1624657445"
+    },
+    {
+      "id": "4",
+      "price": "93.00",
+      "productImageName1": "Hot Facts Summer Tank Top",
+      "productImage1": "https://cdn.shopify.com/s/files/1/0006/4189/2410/products/unisex-premium-tank-top-white-front-60d64cf60cb51_360x.jpg?v=1624657419"
+    }
+  ]
+}

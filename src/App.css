@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.html {
+ scroll-behavior: smooth;
+}
+.my-cursor {
+  cursor: url('./images/cursor.jpg'),auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.row{
+  margin-top: 10em;
+}
+
+.img{
+  -webkit-filter: brightness(100%) ;
+  filter: all 1s;
+}
+
+.img:hover {
+  -webkit-filter: brightness(70%);
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s ;
+  -o-transition: all 1s ;
+  -ms-transition : all 1s  ;
+  transition: all 1s ;
+  filter: all 1s;
+
+
+  
+}
+
+
+.card:hover{
+  transform: scale(1.1);
+  box-shadow: white;
+
+} 
+
+.sidebar-nav ul li NavLink {
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.sidebar-nav ul li NavLink:hover {
+  background-color: aquamarine;
+  border-radius: 4px;
+}
+
+li {
+  text-decoration: none;
+}
+li:hover{
+  transition:0.9s;
+}
+
+
+
+
+.nav-pills {
+  background: #61dafb;
+  width: 100%;
+}
+
+div.navbar {
+  position: -webkit-sticky;
+  position: sticky ;
+}

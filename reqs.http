@@ -1,0 +1,18 @@
+POST http://localhost:9002/user-api/create-user 
+Content-Type: application/json 
+
+{
+    "username" : "sufianshaik" ,
+    "password" : "sufianshaik" ,
+    "email" : "sufianshaik@gmail.com" ,
+    "city" : "hydera" 
+} 
+
+###
+POST http://localhost:9002/user-api/login
+Content-Type: application/json
+
+{
+    "username" : "sufianshai" ,
+    "password" : "sufianshai" 
+}

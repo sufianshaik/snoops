@@ -1,44 +1,57 @@
-# Getting Started with Create React App
+# Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+• Built a T-Shirt-based E-Commerce Web application using mentioned
+  technologies that allow users to choose what they want to buy quickly.
+• Used Redux for user authentication and efficient state management.
 
-## Available Scripts
+-----------------------------------------------------------------------------------------------------------------------------------
 
-In the project directory, you can run:
+## starting the project 
 
-### `npm start`
+### In the project directory run the following commands in the 3 split terminals to start the ReactApp.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### "npm run build"
+* Start "npm run build" to run React "build" folder in one terminal.
+### "nodemon server"
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Run "nodemon server" to start the web server and to make sure the Database connection is in another terminal.
 
-### `npm test`
+### "json-server --watch db.json --port 8000" 
+* Run "json-server --watch db.json --port 8000", so that the local db.json file gets started in the 3rd terminal.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### "http://localhost:9002" 
+* Finally open "http://localhost:9002" in the browser to run the React app.
 
-### `npm run build`
+------------------------------------------------------------------------------------------------------------------------------------
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# React app :
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* The loading page of the Project consists of 3 pages which include the "WELCOME", "ABOUT PAGE", and "Log in" pages.
+* log in to see the project's Detailed view 
 
-### `npm run eject`
+## signup and login 
+* Click on a new user to register, and register with the proper username and password.
+* You will be directed to the login page after successful signup. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## T-shirt 
+* on the successful running of all 3 commands you shall see an interface of the T-shirt buying eCommerce application which includes a vast variety.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Cart 
+* Products are added to the cart, and the price is reflected accordingly.
+* The Redux part of the Project makes an efficient State management i.e on changing any values of the product in the database, which also gets reflected in the products which are added to the cart.
+* An invoice is also generated at last.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Reducers 
+* I used 2 reducers in this project which include the user reducer and a Cart Reducer.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## MongoDB
+* The user's data from the signup page are stored here.
 
+## Design and Styling
+* used Bootstrap, CSS, and React-Bootstrap For better UI.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -61,10 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

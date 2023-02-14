@@ -20,12 +20,8 @@ const cartSlice = createSlice({
                       ...action.payload ,
                       qty : 1 ,
                     }
-
                 ]
-               
-
             }
-           
         },
         remove (state, action) {
             const obj1 = state.find((x) => x.id == action.payload) ;

@@ -57,15 +57,20 @@ function Home() {
            
               <div className='row row-cols-1 me-auto row-cols-sm-2 row-cols-md-3 row-cols-lg-3'>
 
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[0]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[1]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[3]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[3]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[4]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[5]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[6]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[7]}>  </Card></div>
-                <div className='col-sm-4 cols-md-4 mt-3 mb-3 how'><Card productObj={productsList[8]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[0]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[1]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[3]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[3]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[4]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[5]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[6]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[7]}>  </Card></div>
+                <div className='col-sm-4 col-md-4 mt-3 mb-3 how'><Card productObj={productsList[8]}>  </Card></div>
+              
+               
+{/* {
+  productsList.map((product,index) => <Card productObj={product} key={index} />)
+} */}
               </div>
             
 
@@ -80,3 +85,12 @@ function Home() {
 }
 
 export default Home;
+
+
+
+
+
+
+// {
+//   productsList.map((product,index) => <Card user={product} key={index} />)
+// }

@@ -7,7 +7,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { add } from '../store/cartSlice';
 
 
-function Card({ productObj }) {
+function Card( { productObj } ) {
 
   // const handleClick = (userObj,img)=>{
   //    console.log(userObj,img)

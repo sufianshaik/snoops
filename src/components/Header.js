@@ -131,7 +131,7 @@ function Header() {
                             <NavLink className="nav-link" to="HateMailForGood"> <h5>Hate Mail For Good</h5><hr /></NavLink>
                           </li>
                           <li className='nav-item'>
-                            <NavLink className="nav-link" to=""><a className='text-decoration-none' href=""><h5>Logout</h5></a><hr /></NavLink>
+                            <NavLink className="nav-link" to=""><a className='text-decoration-none text-dark' href=""><h5>Logout</h5></a><hr /></NavLink>
                           </li>
                           <li className='nav-item'>
                             <NavLink className="nav-link" to="Bill"> <h5>Bill</h5><hr /></NavLink>

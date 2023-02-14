@@ -15,15 +15,19 @@ const Dburl = process.env.DATABASE_CONNECTION_URL;
 mclient.connect(Dburl)
   .then((client) => {
     let dbobj = client.db("snoops1");
-    let userCollectionObject = dbobj.collection("usercollection")
+    let userCollectionObject = dbobj.collection("usercollection");
+    let productListObject = dbobj.collection("productListObject");
     app.set("userCollectionObject", userCollectionObject);
+    app.set("productListObject",productListObject);
     console.log("DB connection succesfull");
   })
   .catch(err => console.log("Error in connecting DB", err));
 
 const userApp = require('./Apis/userapi');
+const prodList = require('./Apis/productlistapi');
 
 app.use('/user-api', userApp);
+app.use('/productlist-api',prodList);
 
 // app.post("/createuser",
 //     expressAsyncHandler(async(request,response)=>{

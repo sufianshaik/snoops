@@ -1,3 +1,14 @@
+![6](https://user-images.githubusercontent.com/84956668/220707421-34995e13-216c-485d-8a32-202b091ff834.png)
+![7](https://user-images.githubusercontent.com/84956668/220707516-c84d0e6f-c63c-46e0-b466-70a7fe3756b0.png)
+![8](https://user-images.githubusercontent.com/84956668/220707530-b89d55e4-e88f-4ffb-b865-5caf79359abe.png)
+![2](https://user-images.githubusercontent.com/84956668/220707564-3e3bd8ee-9c63-4370-8511-d9742b4d011b.png)
+![1](https://user-images.githubusercontent.com/84956668/220707578-8a147421-207b-40d6-9382-f1e09e86e217.png)
+![3](https://user-images.githubusercontent.com/84956668/220707665-d51f94b1-c3dc-4097-99e3-4e9725c387a4.png)
+![4](https://user-images.githubusercontent.com/84956668/220707691-6bf008dd-4dc7-4e78-9dfc-1fbf03e1be87.png)
+![5](https://user-images.githubusercontent.com/84956668/220707708-03b36389-476f-434a-b962-838beac84da0.png)
+
+
+
 # Getting Started 
 
 • Built a T-Shirt-based E-Commerce Web application using mentioned
